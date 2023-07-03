@@ -1,0 +1,35 @@
+.bg{
+   background-color:powderblue;
+   padding:20px 0px 20px 0px;
+ }
+ .x1{
+	 line-height:2;
+	 padding:20px 0px 20px 20px;
+	 background-color:powderblue;
+	 border:none;
+ }
+ .x2{
+	 width:163px;
+	 height:163px;
+	 border-radius:100%;
+ }
+ .bg1{
+	background-color:#333333;
+	color:white;
+	text-align:center;
+	padding:30px 0px 30px 0px;
+ }
+ .x4{
+	 height:50px;
+	 width:200px;
+	 background-color:black;
+	 border-radius:50px;
+ }
+ .x5{
+	 width:17rem;
+	 background-color:powderblue;
+	 border:none;
+ }
+ .x6{
+	 line-height:1.5;
+ }
